@@ -20,7 +20,7 @@ I'm currently publishing an open curriculum on **Agentic AI from Scratch**—com
 
 ### About Me
 
-📍 Based in Stockholm. I've worked in product and engineering roles at companies ranging from big tech to small startups. Currently helping secure the internet.
+📍 Based in Seattle and Stockholm. I've worked in product and engineering roles at companies ranging from big tech to small startups. Currently helping secure the internet.
 
 🌱 Likes: Agentic AI, home automation, books, espresso, and side projects that my agents are helping me finally finish.
 
